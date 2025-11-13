@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Eli</h1>
-<h3 align="left">Passionate software engineer and team lead with hands-on expertise in game development (Unity, Unreal), backend and AI agents (Python, LangChain).</h3>
+<h3 align="left">Senior Unity Developer & Team Lead | Building Games and AI-Powered Tools (C#, Python, LangChain).</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
